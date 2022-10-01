@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/parse5": "^6.0.3",
-    "eventemitter2": "^6.4.5",
+    "eventemitter2": "^6.4.9",
     "@hint/utils-debug": "^1.0.8",
     "@hint/utils-types": "^1.1.6",
     "css-select": "^4.2.1",
